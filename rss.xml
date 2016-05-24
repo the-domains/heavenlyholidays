@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[HeavenlyHolidays]]></title>
         <description><![CDATA[HeavenlyHolidays]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/heavenlyholidays/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 17:43:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 17:43:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/heavenlyholidays/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Giant Galaxy Orbiting Our Own Just Appeared Out of Nowhere]]></title>
+            <description><![CDATA[<article><h1>A Giant Galaxy Orbiting Our Own Just Appeared Out of Nowhere</h1><p>Researchers scanning the skies just got a big surprise. They spotted a humongous galaxy orbiting our own, where none had been seen before. It appeared, seemingly, out of nowhere. So, just how did the newly-discovered Crater 2 manage to pull off this feat, like a deer leaping from the interstellar bushes to stare us down through our collective headlights?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd35d86c6f1815ff301b89ff31df46ba5d96e829.jpg"></article>]]></description>
+            <link>http://gizmodo.com/a-giant-galaxy-orbiting-our-own-just-appeared-out-of-no-1771257641</link>
+            <guid isPermaLink="false">6e7b5f8d-9f4d-493c-a61e-2c68da1d28f1</guid>
+            <pubDate>Tue, 24 May 2016 17:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple Challenges Government Demand To Crack Drug Dealer's iPhone In New York]]></title>
+            <description><![CDATA[<article><h1>Apple Challenges Government Demand To Crack Drug Dealer's iPhone In New York</h1><p>Apple has formally challenged the U.S. Department of Justice over another locked iPhone and the encrypted information it contains. Owned by an accused methamphetamine distributor in Brooklyn, the iPhone 5s is believed to contain evidence of a drug conspiracy, investigators said. The government claims that its technicians can't penetrate the locked iPhone and require Apple's help to get inside.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e2b247bd692aae20a13780b947564a437b6201a.jpg"></article>]]></description>
+            <link>http://www.buzzfeed.com/hamzashaban/apple-challenges-government-demand-to-crack-drug-dealers-iph#.lyz519Bpy</link>
+            <guid isPermaLink="false">a0fa4101-ee44-4262-933f-cc69f9cac391</guid>
+            <pubDate>Tue, 24 May 2016 17:42:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[High Velocity Aerial Filming]]></title>
             <description><![CDATA[<article><h1>High Velocity Aerial Filming</h1><p>Aerial Filming took a giant leap forward when Blue Sky and Peter Degerfeldt challenged Gyro-stabilized Systems in Grass Valley, US, to build a GSS 520 5 axis system that would produce rock solid images at a speed of more than 300 knots per hour.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a4aa7ef75a0a8a8ecf32ab754c91f7cc08ad0d54.jpg"></article>]]></description>
