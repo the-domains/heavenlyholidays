@@ -1,0 +1,14 @@
+layout_spectrum: 0.419794280314818
+typography_spectrum: 0.9699203066993505
+color:
+  brandStrength: 0.5868054267484695
+  lightness: 0.126459545455873
+  saturation: 0.04746685200370848
+  rhythmicContrast: 0.6454563916195184
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: HeavenlyHolidays
